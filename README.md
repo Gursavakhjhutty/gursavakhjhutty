@@ -1,3 +1,4 @@
+![Header](https://raw.githubusercontent.com/gursavakhjhutty/gursavakhjhutty/main/github-header-banner.png)
 # Gursavakh "Gus" Jhutty
 ### Software Developer & Creative Technologist | Ogden, Utah  
 *Pursuing a Ph.D in Data Science*
