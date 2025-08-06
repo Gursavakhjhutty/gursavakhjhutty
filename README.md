@@ -1,6 +1,4 @@
 ![Header](https://raw.githubusercontent.com/gursavakhjhutty/gursavakhjhutty/main/github-header-banner.png)
-# Gursavakh "Gus" Jhutty
-### Software Developer & Creative Technologist | Ogden, Utah  
 *Pursuing a Ph.D in Data Science*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/gursavakh) 
