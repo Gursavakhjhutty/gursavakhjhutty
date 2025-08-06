@@ -7,8 +7,8 @@
 
 ---
 ## Stats
-* ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gursavakh&show_icons=true&theme=dark)
-* ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gursavakh&layout=compact&theme=dark)
+* ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gursavakhjhutty&show_icons=true&theme=dark)
+* ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gursavakhjhutty&layout=compact&theme=dark)
 ---
 
 ## About Me
