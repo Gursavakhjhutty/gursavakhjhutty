@@ -112,6 +112,21 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 - Public Administration & Policy Analysis
 
 ---
+## 🏆 Competitive Programming Stats
+### Kattis Profile
+[![Kattis Profile](https://img.shields.io/badge/Kattis-Profile-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNXpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTV6Ii8+PC9zdmc+)](https://open.kattis.com/users/YOUR_USERNAME)
+
+| Metric | Value |
+|--------|-------|
+| Problems Solved | **131** |
+| Rank | **#7,215** |
+| Points | **174.5** |
+| State Rank | **#32 (US)** |
+| Highest Difficulty | **9.1** |
+
+*Last updated: August 2025*
+
+---
 
 ## Current Focus
 I'm building software that feels responsive, intentional, and empowering. Particularly interested in:
