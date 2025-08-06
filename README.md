@@ -45,6 +45,12 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 
 ## Professional Experience
 
+### Data Systems Fellow - UWNU | Ogden, UT
+*2025 - Present*
+- Building Data Reporting Systems via Excel, Python, and JavaScript
+- Developed Procedures and Policies in regards to Data Governance and AI Policies
+- Formulated Systems for Inventory Tracking, Software Asset Tracking, and published research on Data systems in the Non-profit space.
+
 ### Freelance Software Developer | Remote  
 *2023 – Present*  
 - Built full-stack applications in React, Node, and Express with MongoDB and MySQL backends
