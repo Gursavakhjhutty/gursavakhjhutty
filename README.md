@@ -32,15 +32,6 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 | Node.js | Vite | XGBoost | MetaMask |
 | Express | | PyTorch | |
 
-### Databases & DevOps
-| **Databases** | **DevOps & Tools** | **Cloud & Platforms** |
-|---------------|-------------------|-----------------------|
-| MySQL | Git | GitHub Actions |
-| MongoDB | GitHub | Firebase |
-| | GitLab | Docker |
-| | VS Code | GitHub Pages |
-| | Jupyter Notebook | |
-
 ---
 
 ## Professional Experience
@@ -68,10 +59,6 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 - Designed and developed blockchain infrastructure, wrote and optimized smart contracts for production
 - Collaborated with team leads to implement decentralized solutions to external crypto opportunities
 - Worked with research teams to onboard external crypto brands to our platform
-
-### Sales Representative - BM Sales Consultants | Atlanta, GA  
-*2019 - 2020*  
-- Managed and added 653 new users generating $211,000 in annual recurring revenue
 
 ---
 
@@ -104,13 +91,6 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 - Reinforcement Learning & Self-Driving Cars
 - Information Retrieval Systems
 
-###  Southern Utah University | B.A. in Political Science  
-*2021*  
-**Focus Areas:**  
-- International Relations & Comparative Politics
-- National Security Policy & Foreign Affairs
-- Public Administration & Policy Analysis
-
 ---
 ## 🏆 Competitive Programming Stats
 ### Kattis Profile
@@ -130,11 +110,9 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 
 ## Current Focus
 I'm building software that feels responsive, intentional, and empowering. Particularly interested in:
-- Protactinium Decay Microreactors
-- AI-assisted development workflows
-- Collaborative tech platforms
-- Turning side projects into shipped products
-- Sustainable technology solutions
+- Thorium Fuel Fission Reaction Modeling
+- AI-assisted Automated Dashboard Building
+- Non-Profit Software Needs
 
 ---
 
