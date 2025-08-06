@@ -6,8 +6,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gursavakhjhutty)
 
 ---
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gursavakh&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gursavakh&layout=compact&theme=dark)
+---
 
-## 🚀 About Me
+## About Me
 I’m a developer who builds with purpose. Whether it's a trading algorithm that interacts with live forex markets, a TTRPG character engine built from scratch, or a full-stack AI-enhanced dashboard, every project I create is rooted in curiosity and a desire to push the boundaries of what I can do with software.
 
 My core expertise lies in Java, JavaScript, and backend system design. I’ve engineered full-stack web applications, integrated real-time APIs, deployed machine learning models into live trading platforms, and worked with decentralized technologies like IPFS and Solidity. I value clarity, resilience, and craftsmanship in code... and I’m constantly leveling up.
@@ -16,7 +20,7 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 
 ---
 
-## 💻 Technical Expertise
+## Technical Expertise
 
 ### Core Languages & Frameworks
 | **Backend** | **Frontend** | **Data Science** | **Blockchain** |
@@ -39,35 +43,35 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🚀 Freelance Software Developer | Remote  
+### Freelance Software Developer | Remote  
 *2023 – Present*  
 - Built full-stack applications in React, Node, and Express with MongoDB and MySQL backends
 - Developed custom AI-powered dashboards and TTRPG tools used by live player groups
 - Designed REST APIs and integrated third-party services like Gemini and MetaTrader 5
 
-### 📊 Data Scientist – Landslide Political | Salt Lake City, UT  
+### Data Scientist – Landslide Political | Salt Lake City, UT  
 *2021 – 2023*  
 - Managed 50+ data analysts during peak campaign cycles using automated systems
 - Developed internal tooling to reduce misprints and optimize signature reading and handling
 - Balanced logistics, stakeholder service, and data insight choices during high-pressure seasons
 
-### ⛓️ Blockchain Engineer – DAOMiner via Binance | Remote  
+###  Blockchain Engineer – DAOMiner via Binance | Remote  
 *2020 – 2021*  
 - Designed and developed blockchain infrastructure, wrote and optimized smart contracts for production
 - Collaborated with team leads to implement decentralized solutions to external crypto opportunities
 - Worked with research teams to onboard external crypto brands to our platform
 
-### 💼 Sales Representative - BM Sales Consultants | Atlanta, GA  
+### Sales Representative - BM Sales Consultants | Atlanta, GA  
 *2019 - 2020*  
 - Managed and added 653 new users generating $211,000 in annual recurring revenue
 
 ---
 
-## 🎓 Education
+## Education
 
-### 📚 Massey University | M.S. in Information Science (Ph.D Track)  
+### Massey University | M.S. in Information Science (Ph.D Track)  
 *Expected 2025*  
 **Current Focus Areas:**  
 - Parallel & Distributed Systems
@@ -77,7 +81,7 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 - Practical Data Mining
 - Advanced Machine Learning
 
-### 💻 Western Governors University | B.S. in Computer Science  
+### Western Governors University | B.S. in Computer Science  
 *2025*  
 **Key Coursework:**  
 - Software Engineering & Full Stack Development
@@ -86,7 +90,7 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 - Advanced Java & Backend Systems
 - Network Security & Systems Architecture
 
-### 📊 Yandex Data School | Data Science Fellow  
+### Yandex Data School | Data Science Fellow  
 *2023*  
 **Specializations:**  
 - Machine Learning & Deep Learning
@@ -94,7 +98,7 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 - Reinforcement Learning & Self-Driving Cars
 - Information Retrieval Systems
 
-### 🏛️ Southern Utah University | B.A. in Political Science  
+###  Southern Utah University | B.A. in Political Science  
 *2021*  
 **Focus Areas:**  
 - International Relations & Comparative Politics
@@ -103,7 +107,7 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 
 ---
 
-## 🌟 Current Focus
+## Current Focus
 I'm building software that feels responsive, intentional, and empowering. Particularly interested in:
 - AI-assisted development workflows
 - Collaborative tech platforms
@@ -113,7 +117,7 @@ I'm building software that feels responsive, intentional, and empowering. Partic
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 - **GitHub:** [gursavakh](https://github.com/gursavakh)
 - **LinkedIn:** [Gursavakh Jhutty](https://linkedin.com/in/gursavakhjhutty)
 - **Email:** [Contact me](mailto:gursavakh@example.com) *(Replace with actual email)*
