@@ -130,11 +130,11 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 
 ## Current Focus
 I'm building software that feels responsive, intentional, and empowering. Particularly interested in:
+- Protactinium Decay Microreactors
 - AI-assisted development workflows
 - Collaborative tech platforms
 - Turning side projects into shipped products
 - Sustainable technology solutions
-- Blockchain applications with real-world utility
 
 ---
 
