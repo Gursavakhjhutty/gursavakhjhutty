@@ -51,12 +51,6 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 - Developed internal tooling to reduce misprints and optimize signature reading and handling
 - Balanced logistics, stakeholder service, and data insight choices during high-pressure seasons
 
-###  Blockchain Engineer – DAOMiner via Binance | Remote  
-*2020 – 2021*  
-- Designed and developed blockchain infrastructure, wrote and optimized smart contracts for production
-- Collaborated with team leads to implement decentralized solutions to external crypto opportunities
-- Worked with research teams to onboard external crypto brands to our platform
-
 ---
 
 ## Education
