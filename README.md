@@ -141,7 +141,7 @@ I'm building software that feels responsive, intentional, and empowering. Partic
 ## Connect With Me
 - **GitHub:** [gursavakh](https://github.com/gursavakh)
 - **LinkedIn:** [Gursavakh Jhutty](https://linkedin.com/in/gursavakhjhutty)
-- **Email:** [Contact me](mailto:gursavakh@example.com) *(Replace with actual email)*
+- **Email:** [Contact me](mailto:gursavakh@proton.me)
 
 ---
 
