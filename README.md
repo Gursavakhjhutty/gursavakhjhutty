@@ -1,12 +1,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/gursavakh) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gursavakhjhutty)
 
----
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gursavakhjhutty&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gursavakhjhutty&layout=donut&theme=dark)
----
-
 ## About Me
 I’m a developer who builds with purpose. Whether it's a trading algorithm that interacts with live forex markets, a TTRPG character engine built from scratch, or a full-stack AI-enhanced dashboard, every project I create is rooted in curiosity and a desire to push the boundaries of what I can do with software.
 
