@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gursavakh-jhutty-432591255)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gursavakh-jhutty-432591255)
 
 ## About Me
 I’m a developer who builds with purpose. Whether it's a trading algorithm that interacts with live forex markets, a TTRPG character engine built from scratch, or a full-stack AI-enhanced dashboard, every project I create is rooted in curiosity and a desire to push the boundaries of what I can do with software.
