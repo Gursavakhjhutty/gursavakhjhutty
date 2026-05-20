@@ -25,7 +25,7 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 
 ## Professional Experience
 
-### Data Systems Fellow - UWNU | Ogden, UT
+### Data Systems Engineer - UWNU | Ogden, UT
 *2025 - Present*
 - Building Data Reporting Systems via Excel, Python, and JavaScript
 - Developed Procedures and Policies in regards to Data Governance and AI Policies
@@ -47,8 +47,8 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 
 ## Education
 
-### Massey University | M.S. in Information Science (Ph.D Track)  
-*Expected 2025*  
+### Western Governors University | M.S. in Computer Science  
+*2026*  
 **Current Focus Areas:**  
 - Parallel & Distributed Systems
 - Operating Systems & Architecture
@@ -95,7 +95,7 @@ I'm deeply motivated by tough problems, underserved communities, and overlooked 
 I'm building software that feels responsive, intentional, and empowering. Particularly interested in:
 - Thorium Fuel Fission Reaction Modeling
 - AI-assisted Automated Dashboard Building
-- Non-Profit Software Needs
+- Non-Profit Software
 
 ---
 
@@ -106,4 +106,4 @@ I'm building software that feels responsive, intentional, and empowering. Partic
 
 ---
 
-*Last updated: August 2025*
+*Last updated: May 2026*
